@@ -16,7 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".DiffActivity"></activity>
+        <activity android:name=".DiffActivity" />
+        <activity android:name=".AsyncListDifferActivity" />
+        <activity android:name=".ListAdapterActivity"></activity>
     </application>
 
 </manifest>

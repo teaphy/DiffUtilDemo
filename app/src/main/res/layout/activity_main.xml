@@ -3,6 +3,7 @@
     android:layout_height="match_parent"
     android:layout_width="match_parent"
     android:gravity="center"
+    android:orientation="vertical"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <Button
@@ -11,4 +12,18 @@
         android:layout_height="wrap_content"
         android:textAllCaps="false"
         android:text="DiffUtil"/>
+
+    <Button
+        android:id="@+id/btnAld"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AsyncListDiffer"
+        android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btnLa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ListAdapter"
+        android:textAllCaps="false"/>
 </LinearLayout>
