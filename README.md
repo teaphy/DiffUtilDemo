@@ -1,6 +1,8 @@
 # DiffUtilDemo
 This is the demo for DiffUtil used in updating the UI in the RecyclerView.
 
+<img src='https://github.com/teaphy/DiffUtilDemo/blob/master/diffutil.gif'>
+
 # BlogAddress
 
 1. [RecyclerView数据更新神器 - DiffUtil ](https://blog.csdn.net/io_field/article/details/79795584)
