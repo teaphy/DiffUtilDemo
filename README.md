@@ -4,11 +4,14 @@ This is the demo for DiffUtil used in updating the UI in the RecyclerView.
 <img src='https://github.com/teaphy/DiffUtilDemo/blob/master/diffutil.gif'>
 
 # SortedList
+
 <img src="https://raw.githubusercontent.com/teaphy/DiffUtilDemo/master/SortedList.png" width="320" height="480" >
+
 # BlogAddress
 
-1. [RecyclerView数据更新神器 - DiffUtil ](https://blog.csdn.net/io_field/article/details/79795584)
-2. [ RecyclerView数据更新神器 进化版- AsyncListDiffer ](https://blog.csdn.net/io_field/article/details/79804299)
+1. [RecyclerView数据更新神器 - DiffUtil](https://blog.csdn.net/io_field/article/details/79795584)
+2. [RecyclerView数据更新神器 进化版- AsyncListDiffer](https://blog.csdn.net/io_field/article/details/79804299)
+3. [Android实用的排序集合 - SortedList](https://blog.csdn.net/io_field/article/details/79821191)
 
 # License
 
