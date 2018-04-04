@@ -26,4 +26,11 @@
         android:layout_height="wrap_content"
         android:text="ListAdapter"
         android:textAllCaps="false"/>
+
+    <Button
+        android:id="@+id/btnSl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SortedList"
+        android:textAllCaps="false"/>
 </LinearLayout>

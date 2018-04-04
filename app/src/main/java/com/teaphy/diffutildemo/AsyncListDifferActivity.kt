@@ -2,7 +2,6 @@ package com.teaphy.diffutildemo
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-import android.support.v7.recyclerview.extensions.ListAdapter
 import android.support.v7.widget.LinearLayoutManager
 import android.text.TextUtils
 import android.util.Log

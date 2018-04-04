@@ -43,6 +43,10 @@ class MainActivity : AppCompatActivity() {
         btnLa.setOnClickListener({
             startActivity<ListAdapterActivity>()
         })
+
+        btnSl.setOnClickListener({
+            startActivity<SortedListActivity>()
+        })
     }
 
 

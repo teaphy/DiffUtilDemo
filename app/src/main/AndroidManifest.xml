@@ -18,7 +18,8 @@
         </activity>
         <activity android:name=".DiffActivity" />
         <activity android:name=".AsyncListDifferActivity" />
-        <activity android:name=".ListAdapterActivity"></activity>
+        <activity android:name=".ListAdapterActivity" />
+        <activity android:name=".SortedListActivity"></activity>
     </application>
 
 </manifest>
